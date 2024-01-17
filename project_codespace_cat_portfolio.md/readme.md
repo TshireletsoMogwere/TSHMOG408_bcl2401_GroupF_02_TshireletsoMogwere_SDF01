@@ -1,6 +1,6 @@
 # Project Overview
 Here you will write a short description of your project.
-<p>My project is a web portfolio that includes the skills, pictures, profile and contact information of CodeSpace cat written in a form of lists, tables and forms </p>
+<p>My project is a web portfolio that includes the skills, pictures, profile and contact information of CodeSpace cat written in a form of lists, tables and forms. </p>
 
 # Presentation
 
